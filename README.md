@@ -22,10 +22,6 @@ Hi, I'm **Lucas**, a passionate Full Stack Web Developer 🚀 from Brazil.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=torreslucas13&layout=compact)](https://github.com/torreslucas13/github-readme-stats)
 
 
-If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/Pjbn2mVGt" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
 
 📈 My GitHub Stats
 

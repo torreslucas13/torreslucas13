@@ -12,7 +12,7 @@ Hi, I'm **Lucas**, a passionate Full Stack Web Developer 🚀 from Brazil.
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Serveless; 
+- 🌱 I’m currently learning Web3; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [Lucas Torres](https://www.linkedin.com/in/torres-lucas/);
 - 📝[Resume](https://www.linkedin.com/in/torres-lucas/)
